@@ -1,5 +1,7 @@
 # Cloud.gov post mortems
 
+**Please note - if you are experiencing a problem or want to discuss an ongoing incident, please visit #cloud-gov-support in Slack, or visit http://cloudgov.statuspage.io/. This repository and wiki is *only* for post-mortems after the incident is completed.**
+
 A post mortem is held as soon as possible after an incident. ITIL defines an incident as `Failure of a configuration item that has not yet affected service is also an incident — for example, failure of one disk from a mirror set. The ITIL incident management process ensures that normal service operation is restored as quickly as possible and the business impact is minimized.'
 
 We keep our post mortems in [the wiki](https://github.com/18F/cloud-gov-postmortems/wiki) attached to this repo.
