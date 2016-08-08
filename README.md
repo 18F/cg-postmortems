@@ -18,6 +18,6 @@ Before the post mortem we'll put together a timeline of the incident on the wiki
 1. The facilitator starts by reading [the retrospective prime directive](http://www.retrospectives.com/pages/retroPrimeDirective.html).
 2. We review the timeline and add anything we have missed.
 3. We analyze the factors that contributed to the incident.
-4. We propose, discuss and prioritize ways to incrementally improve our systems, and to test these improvements.
+4. We propose, discuss and prioritize ways to incrementally improve our systems, ways to test these improvements, and ways to improve our incident handling processes/training.
 
 We add the work that comes out of the post mortem to our backlog. We then schedule a meeting 2 months after the incident to review our progress.
