@@ -15,9 +15,11 @@ For more information on post mortems, check out:
 
 Before the post mortem we'll put together a timeline of the incident on the wiki, beginning at the time the incident was announced in Slack, and ending at the point we declared the incident over. Everybody is welcome to add their observations to the timeline, including which actions were taken when, the effects observed, and their understanding of the events.
 
+<!-- #4 is important for IR-4 and SI-2 -->
+
 1. The facilitator starts by reading [the retrospective prime directive](http://www.retrospectives.com/pages/retroPrimeDirective.html).
 2. We review the timeline and add anything we have missed.
 3. We analyze the factors that contributed to the incident.
-4. We propose, discuss and prioritize ways to incrementally improve our systems, ways to test these improvements, and ways to improve our incident handling processes/training.
+4. We propose, discuss, and prioritize remediation steps to reduce the likelihood of future incidents, to improve detection and response times for future incidents, to improve our incident handling processes and training, and to validate and test these remediation steps.
 
 We add the work that comes out of the post mortem to our backlog. We then schedule a meeting 2 months after the incident to review our progress.
