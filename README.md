@@ -23,3 +23,6 @@ Before the post mortem we'll put together a timeline of the incident on the wiki
 4. We propose, discuss, and prioritize remediation steps to reduce the likelihood of future incidents, to improve detection and response times for future incidents, to improve our incident handling processes and training, and to validate and test these remediation steps.
 
 We add the work that comes out of the post mortem to our backlog. We then schedule a meeting 2 months after the incident to review our progress.
+
+### Sensitive Data
+Any information related to specific security flaws, vulnerabilities, sensitive infrastructure details or items which may be PII related are excluded from post-mortems.
