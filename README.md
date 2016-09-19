@@ -24,5 +24,8 @@ Before the post mortem we'll put together a timeline of the incident on the wiki
 
 We add the work that comes out of the post mortem to our backlog. We then schedule a meeting 2 months after the incident to review our progress.
 
-### Sensitive Data
-Any information related to specific security flaws, vulnerabilities, sensitive infrastructure details or items which may be PII-related are excluded from post-mortems.
+### Protecting sensitive information
+
+<!-- this section is important for compliance -->
+
+In this public repository, we exclude any information that may be sensitive, such as information related to exploitable security flaws/vulnerabilities, sensitive infrastructure details, or PII. For details, see the 18F Open Source Policy [guidelines for protecting sensitive information](https://github.com/18F/open-source-policy/blob/master/practice.md#protecting-sensitive-information). If we want to reference sensitive information as part of a postmortem, we can make an access-controlled GSA Google Doc and link to it from this repository.
