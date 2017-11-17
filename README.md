@@ -1,6 +1,8 @@
-# cloud.gov post mortems
+# cloud.gov post mortems [DEPRECATED]
 
-**Note: If you're experiencing a problem with cloud.gov or you want to discuss an ongoing incident: check [the cloud.gov StatusPage](http://cloudgov.statuspage.io/) and visit #cloud-gov-support in Slack or email cloud-gov-support@gsa.gov. This repository and wiki are *only* for post-mortems after the incident has been closed.**
+**We no longer use this repository for postmortem work. Instead, we have [team guidance in the ops docs](https://cloud.gov/docs/ops/service-disruption-guide/) and postmortem notes in the [team Google Drive folder](https://drive.google.com/drive/folders/0B58iDAWKmw_BSEtqcUFFQ041MHc).**
+
+If you're experiencing a problem with cloud.gov or you want to discuss an ongoing incident: check [the cloud.gov StatusPage](http://cloudgov.statuspage.io/) or email cloud-gov-support@gsa.gov. This repository and wiki are *only* for post-mortems after the incident has been closed.
 
 We hold a post mortem as soon as possible after a cloud.gov service disruption or other incident. We use a broad definition of incident; [ITIL](https://en.wikipedia.org/wiki/ITIL) says "Failure of a configuration item that has not yet affected service is also an incident — for example, failure of one disk from a mirror set. The ITIL incident management process ensures that normal service operation is restored as quickly as possible and the business impact is minimized."
 
